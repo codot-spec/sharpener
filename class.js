@@ -20,3 +20,4 @@ const myInstance2 = new MyClass("Jane Doe", 30, "California", "de@g.com");
 // Print the constructor elements
 myInstance.printDetails();
 myInstance2.printDetails();
+//Updated version
