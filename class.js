@@ -14,6 +14,7 @@ class MyClass {
 
 // Create an instance of the class
 const myInstance = new MyClass("John Doe", 30, "New York");
-
+const myInstance2 = new MyClass("Jane Doe", 30, "California");
 // Print the constructor elements
 myInstance.printDetails();
+myInstance2.printDetails();
